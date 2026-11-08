@@ -56,7 +56,7 @@ footer {
     text-align: center;
 }
 
-/* Class Selectors */
+/* Class Selectors 
 .box {
     margin: 1rem;
     border: 1px solid rgb(0 0 0 / 10%);
@@ -67,6 +67,11 @@ footer {
 
 main img {
     float: right;
+    width: 150px;
+    height: auto;
+    border: 1px;
+    padding: 2px;
+    box-shadow: #333;
 }
 
 aside h2 {
@@ -74,3 +79,4 @@ aside h2 {
     top: 47px;
     left: 150px;
 }
+*/
