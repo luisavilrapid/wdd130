@@ -2,6 +2,13 @@
     background-color: darkblue;
     padding: 10px;
 }*/
+::root {
+    --heading-background-color: darkblue;
+    --heading-text-color: white;
+    --heading-font: 'Montserrat', Helvetica, sans-serif;
+    --padding: 1rem;
+    --border: 1px solid rgb(0 0 0 / 0.1);
+}
 
 nav {
     background-color: darkblue;
@@ -28,7 +35,7 @@ nav a {
 
 h1 {
     color: darkblue;
-    border-bottom: 8px;
+    border-bottom: 1px solid #777;
     /* I’m not sure */
 }
 
